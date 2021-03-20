@@ -2,7 +2,7 @@
 
 Going through a game development phase and SDL was something I wanted to learn. Researched raycasters and how they work is really interesting, so here is one written in C++ using SDL to render everything. </br>
 
-![screenshot](screenshot.PNG)
+![screenshot](Screenshot.PNG)
 
 ### Resources Used
 - Learning SDL:
