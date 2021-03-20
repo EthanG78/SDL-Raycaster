@@ -24,7 +24,7 @@ int main(int argc, char *argv[])
 {
 	caster = new Raycaster(WIDTH, HEIGHT);
 
-	caster->init("Raytracing Application");
+	caster->init("Raycaster Application");
 
 	caster->spawnPlayer(75, 75);
 
